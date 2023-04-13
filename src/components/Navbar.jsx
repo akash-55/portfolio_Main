@@ -78,7 +78,7 @@ const Navbar = () => {
                 <ul>
                     <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-red-500'>
                         <a className='flex justify-between items-center w-full text-grey-300'
-                            href='https://drive.google.com/file/d/11WTDcm0dCA33IpXTYZqhc7xT0olic4e9/view?usp=share_link'>
+                            href='/'>
                             Download Resume <BsFillPersonLinesFill size={30} />
                         </a>
                     </li>
